@@ -1,2 +1,2 @@
-From tomcat:9.0
+From jboss
 COPY target/MavenProject.war /usr/local/tomcat/webapps/MavenProject.war
